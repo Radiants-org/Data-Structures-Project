@@ -1,0 +1,4 @@
+201710222,Ahmad,XYZ,ahmad@ua.edu.lb,234DS#$,DataStructures,Calculus
+201710223,Jamil,XYZC,Jamil@ua.edu.lb,284DS#$,Calculus,Programming1
+201710224,Sarah,XYZR,Sarah@ua.edu.lb,224DS#$,Calculus
+201710225,Rami,XYZB,Rami@ua.edu.lb,2349LS#$,HCI,WebDesign
